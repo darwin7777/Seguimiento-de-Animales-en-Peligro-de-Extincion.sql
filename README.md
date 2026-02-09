@@ -21,7 +21,7 @@ Diseñar y explotar un modelo de datos que permita:
 👉 [Creacion_Insercion](Creacion_Insercion.sql)
 
 📑 Informe_Proyecto\
-👉 [Informe_Proyecto](Informe_Proyecto.sql)
+👉 [Informe_Proyecto](Informe_Proyecto.pdf)
 
 ⚡ Optimización de consultas\
 👉 [Optimización_consultas](Optimización_consultas.sql)
