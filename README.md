@@ -14,15 +14,15 @@ Diseñar y explotar un modelo de datos que permita:
 🛠️ Apoyar la toma de decisiones para la conservación ambiental.\
 📂 Archivos del proyecto\
 
-📄 Consultas analíticas
+📄 Consultas
 👉 [Consultas](Consultas.sql)
 
-📄 Script MySQL
-👉 Creacion_Insercion
+📄 Creacion_Insercion
+👉 [Creacion_Insercion](Creacion_Insercion.sql)
 
-📑 Informe final
-👉 Informe_Proyecto
+📑 Informe_Proyecto
+👉 [Informe_Proyecto](Informe_Proyecto.sql)
 
 ⚡ Optimización de consultas
-👉 Optimización_consultas
+👉 [Optimización_consultas](Optimización_consultas.sql)
 
