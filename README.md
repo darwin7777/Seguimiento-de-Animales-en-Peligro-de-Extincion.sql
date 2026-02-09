@@ -1,4 +1,4 @@
-🐾 Seguimiento de Animales en Peligro de Extinción
+🐾 Seguimiento de Animales en Peligro de Extinción\
 📊 Proyecto MySQL
 
 📝 Descripción
