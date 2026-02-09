@@ -12,17 +12,17 @@ Diseñar y explotar un modelo de datos que permita:
 📍 Registrador de avistamientos y seguimiento de individuos.\
 📉 Analizar el estado de conservación y población.\
 🛠️ Apoyar la toma de decisiones para la conservación ambiental.\
-📂 Archivos del proyecto\
+📂 Archivos del proyecto
 
-📄 Consultas
+📄 Consultas\
 👉 [Consultas](Consultas.sql)
 
-📄 Creacion_Insercion
+📄 Creacion_Insercion\
 👉 [Creacion_Insercion](Creacion_Insercion.sql)
 
-📑 Informe_Proyecto
+📑 Informe_Proyecto\
 👉 [Informe_Proyecto](Informe_Proyecto.sql)
 
-⚡ Optimización de consultas
+⚡ Optimización de consultas\
 👉 [Optimización_consultas](Optimización_consultas.sql)
 
