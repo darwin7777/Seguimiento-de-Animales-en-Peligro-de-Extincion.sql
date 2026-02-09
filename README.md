@@ -11,16 +11,18 @@ Diseñar y explotar un modelo de datos que permita:
 🌍 Monitorear ubicaciones geográficas y hábitats.\
 📍 Registrador de avistamientos y seguimiento de individuos.\
 📉 Analizar el estado de conservación y población.\
-🛠️ Apoyar la toma de decisiones para la conservación ambiental.
-📂 Archivos del proyecto
-📄 Script MySQL
-👉 ProyectoFinal
+🛠️ Apoyar la toma de decisiones para la conservación ambiental.\
+📂 Archivos del proyecto\
 
 📄 Consultas analíticas
-👉 Consultas
+👉 [Consultas](Consultas.sql)
+
+📄 Script MySQL
+👉 Creacion_Insercion
+
+📑 Informe final
+👉 Informe_Proyecto
 
 ⚡ Optimización de consultas
 👉 Optimización_consultas
 
-📑 Informe final
-👉 Informe_Proyecto
