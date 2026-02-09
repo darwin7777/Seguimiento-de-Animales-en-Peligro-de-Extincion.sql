@@ -23,6 +23,6 @@ Diseñar y explotar un modelo de datos que permita:
 📑 Informe_Proyecto\
 👉 [Informe_Proyecto](Informe_Proyecto.pdf)
 
-⚡ Optimización_Consultas\
-👉 [Optimización_Consultas](Optimización_Consultas.sql)
+⚡ Optimizacion_Consultas\
+👉 [Optimizacion_Consultas](Optimizacion_Consultas.sql)
 
